@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "vite"
+  },
   "devDependencies": {
     "vite": "^5.1.4",
     "vite-plugin-ruby": "^5.0.0"
