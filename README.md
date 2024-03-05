@@ -3,7 +3,8 @@
 This is a sample Ruby on Rails application whose frontend is created using
 Vite, Vue ans Bun.
 
-Details are in the blog post, https://yokolet.com/blog/
+Visit the blog post for details:
+[https://yokolet.com/2024/03/05/vite-vue-bun-on-rails.html](https://yokolet.com/2024/03/05/vite-vue-bun-on-rails.html).
 
 ### Versions
 
@@ -19,4 +20,4 @@ Details are in the blog post, https://yokolet.com/blog/
 1. bundle install
 2. bun install
 3. bin/dev
-4. Open http://localhost:3000/
+4. Open http://localhost:3000/ on a browser
