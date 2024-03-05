@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "dev": "bunx --bun vite"
+    "dev": "bunx --bun vite",
+    "build": "bunx --bun vite build"
   },
   "devDependencies": {
     "vite": "^5.1.4",
