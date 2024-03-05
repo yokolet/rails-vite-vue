@@ -1,24 +1,22 @@
-# README
+# Vite + Vue + Bun on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample Ruby on Rails application whose frontend is created using
+Vite, Vue ans Bun.
 
-Things you may want to cover:
+Details are in the blog post, https://yokolet.com/blog/
 
-* Ruby version
+### Versions
 
-* System dependencies
+- Ruby 3.2.3
+- Rails 7.1.3.2
+- Node.js v21.5.0
+- Bun 1.0.29
+- Vite 5.1.4
+- Vue 3.4.21
 
-* Configuration
+### How to Run the App
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. bundle install
+2. bun install
+3. bin/dev
+4. Open http://localhost:3000/
